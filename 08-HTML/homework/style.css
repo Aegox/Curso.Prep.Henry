@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://st.depositphotos.com/1000112/2505/v/950/depositphotos_25053625-stock-illustration-abstract-vector-background.jpg);
+    background-size: cover;
+}   
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv { 
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    margin: 20px;
+    padding: 50px;
+    border: 20px solid grey;
+    
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+

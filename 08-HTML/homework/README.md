@@ -11,7 +11,7 @@ I. Cree una página HTML básica.
   B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
-      * un elemento h1 que contiene [Tu nombre].
+      * un elemento h1 que contiene [Tu nombre].   
       * un elemento h3 que contiene "Henry".
       * un elemento h4 que contiene "tarea de HTML / CSS".
     2. En el segundo div crea:
@@ -36,11 +36,11 @@ II Añade un poco de estilo
   J. Asignar al id 'spanId' un margen de 50px.
   K. Asignar al id 'thirdDiv' un relleno (padding) de 50px.
   L. Asignar al id 'thirdDiv' un borde con cualquier ancho de color y estilo que elija.
-```
+``` w d
 
 ```
 III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anteriores a la nueva hoja de estilo.
-  A. Cree un archivo llamado styles.css en esta carpeta.
+  A. Cree un archivo llamado styles.css en esta carpeta. wddd
   B. COPIE todas sus reglas de estilo en este nuevo archivo.
   C. Agregue una etiqueta de enlace a su html que importe su nuevo archivo css.
 ```
