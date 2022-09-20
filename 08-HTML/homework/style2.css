@@ -1,0 +1,75 @@
+body {
+    display: block-flex;
+    background-color: #e4e4e4;
+    margin: 10px 400px  ;
+}
+.name {
+    display: block-inline;
+    color: white;
+    font-size: 18px;
+    background-color: #1e2c2b;
+    border: 20px #788180 solid
+    height: 30px;
+    width: 600;
+    padding: 5px 250px 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.informacion {
+    display: inline-flex;
+    width: 150px;
+    height: 800px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #516865;
+    margin:5px 0 0 ;
+    padding: 5px 30px 5px;
+    color: white;
+}
+
+.informacion h4 {
+    text-decoration: underline;
+}
+    
+.descripsion {
+    display: inline-flex;
+    width: 618px;   
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #516865;
+    margin:5px;
+    padding: 5px 10px 5px;
+    color: white;
+    text-decoration: underline;
+}
+
+.text {
+    position: relative;   
+    top: -715px;
+    left: 215px;
+    width: 600px;
+    height: 690px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #7f8b8a;
+    margin:3px;
+    padding: 10px 20px 10px;
+    color: white;
+    
+}
+
+.text h4 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: underline;
+}
+
+.skills {
+    font-size: 18px;
+    position: relative;   
+    top: 120px;
+    left: -75px;
+    width: 150px;
+    height: 700px;
+}   
