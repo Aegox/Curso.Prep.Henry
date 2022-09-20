@@ -3,7 +3,7 @@ body {
     background-color: #e4e4e4;
     margin: 10px 400px ;
     background-image: url(https://wc.wallpaperuse.com/wallp/41-410527_s.jpg);
-    background-size: 3000px;
+    background-size: cover;
 }
 .name {
     display: block-inline;
